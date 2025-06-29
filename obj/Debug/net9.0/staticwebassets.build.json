@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jAuCJBS84C8n7VnaxoRMASW/kLQy7KUP+ysTV9dPpYM=",
+  "Source": "BetEngage.Api",
+  "BasePath": "_content/BetEngage.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
